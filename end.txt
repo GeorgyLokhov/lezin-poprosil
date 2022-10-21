@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title> Это конец.... </title>
+	</head>
+	<body>
+		<img src="end.png">
+	</body>
+</html>

@@ -1,0 +1,14 @@
+a {
+ text-decoration:none;
+ decoration: none;
+ color: black
+}
+
+.button {
+ font-weight: 600;
+ color: white;
+ padding: 30px 50px;
+ background: #c4c4c4;
+ border-radius: 20px;
+ round-corner: 30px;
+}
